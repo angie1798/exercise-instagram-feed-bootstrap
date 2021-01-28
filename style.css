@@ -1,0 +1,13 @@
+#fuente{
+    font-family: 'Rouge Script', cursive;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+li{
+    list-style: none;
+}
+#espacio{
+    padding-right:50%;
+
+}
